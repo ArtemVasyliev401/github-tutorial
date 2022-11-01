@@ -1,0 +1,5 @@
+# Папки и файлы которые Git должен игнорировать
+.vscode .idea
+.DS_Store node modules . env
+build/
+*.psd
